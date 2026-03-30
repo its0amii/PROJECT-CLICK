@@ -2,7 +2,7 @@
 
 PROJECT-CLICK is a **3×2 matrix macropad** with a **cyberpunk-inspired design**, built around the **XIAO RP2040**.
 I tried to make it look good as posible and it was my first build so it will have its own problems
-
+(the case is tight fit)
 
 ## Features
 3x2 matrix 
