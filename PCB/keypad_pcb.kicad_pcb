@@ -8673,7 +8673,7 @@
 	(footprint "pcb art:hackclub_17mm"
 		(layer "F.Cu")
 		(uuid "f991dac2-5a95-4416-a6d4-0a0714037dd3")
-		(at 40.06925 79.9605 -90)
+		(at 48.83225 76.9125 -90)
 		(property "Reference" "G***"
 			(at 0 0 90)
 			(layer "F.SilkS")
